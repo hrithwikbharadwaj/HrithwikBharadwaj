@@ -11,7 +11,7 @@ Interested and pursuing skills related to
  - UI/UX
 
 ## Connect with me
-- [YouTube](www.youtube.com/HSBTechYt)
-- [Twitter](www.twitter.com/HSBTechYt)
+- [YouTube](https://www.youtube.com/HSBTechYt)
+- [Twitter](https://www.twitter.com/HSBTechYt)
 - [LinkedIn](https://www.linkedin.com/in/hrithwik-bharadwaj-a77810150/)
-- [Instagram](www.instagram.com/thiru.jpg)
+- [Instagram](https://www.instagram.com/thiru.jpg)
