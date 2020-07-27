@@ -1,5 +1,4 @@
-# Hi, My Name is <img src="https://github.com/hrithwikbharadwaj/HrithwikBharadwaj/blob/master/logoHrithwik.png" width ="50" height= "30" style="float:right">
-
+# Hi, My Name is Hrithwik Bharadwaj
 
 
 I'm a Tech Enthusiast , with a Technology YouTube Channel of 8.5K subscribers and 1.8M Views
