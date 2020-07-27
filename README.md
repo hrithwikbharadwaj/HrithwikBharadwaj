@@ -2,7 +2,7 @@
 
 
 
-I'm a Tech Enthusiast undergrad ISE student, with a Technology YouTube Channel of 8.5K subscribers and 1.8M Views
+I'm a Tech Enthusiast , with a Technology YouTube Channel of 8.5K subscribers and 1.8M Views
 
 Interested and pursuing skills related to
  - Web Development
