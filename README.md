@@ -4,10 +4,11 @@
 I'm a Tech Enthusiast , with a Technology YouTube Channel of 8.5K subscribers and 1.8M Views
 
 Interested and pursuing skills related to
- - Web Development
- - Automation
- - Video Processing
- - UI/UX
+  - 📲Progressive Web Apps
+  - 🤖Automation
+  - ⚡UI/UX
+
+
 
 ## Connect with me
 - [YouTube](https://www.youtube.com/HSBTechYt)
