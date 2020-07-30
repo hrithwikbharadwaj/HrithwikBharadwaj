@@ -1,4 +1,4 @@
-# Hi, My Name is Hrithwik Bharadwaj
+# Hey, I'm Hrithwik Bharadwaj👋🏾💻
 
 
 <img src="https://github.com/hrithwikbharadwaj/HrithwikBharadwaj/blob/master/hrithwikGithub.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
