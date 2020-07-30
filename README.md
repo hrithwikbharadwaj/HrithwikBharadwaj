@@ -1,7 +1,7 @@
 # Hi, My Name is Hrithwik Bharadwaj
 
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/hrithwikbharadwaj/HrithwikBharadwaj/blob/master/hrithwikGithub.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a Tech Enthusiast , with a Technology YouTube Channel of 8.5K subscribers and 1.8M Views
 
 Interested and pursuing skills related to
