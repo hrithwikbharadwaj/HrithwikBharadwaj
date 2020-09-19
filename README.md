@@ -14,6 +14,10 @@ Interested and pursuing skills related to
 - ### Reddit2Instagram - Python Meme Bot( [Repository](https://github.com/hrithwikbharadwaj/redditToInstaBot "Heading link"))
 - ### GoCoronaGo - LIVE COVID-19 Tracking India( [Repository](https://github.com/hrithwikbharadwaj/goCoronaGo "Heading link"))
 - ### House Price Prediction in Bangalore( [Repository](https://github.com/hrithwikbharadwaj/DAHousePrediction "Heading link"))
+## Blog Posts
+- ###   [Deploy Flask Apps on Heroku](https://blog.hrithwik.me/deploy-flask-apps-for-free-using-heroku "Heading link")
+- ### [Say no to Double Equals in JavaScript](https://blog.hrithwik.me/lose-equality-and-strict-equality-in-javascript "Heading link")
+- ### [Why I love FireBase](https://blog.hrithwik.me/why-everyone-is-using-firebase-and-why-you-should-too "Heading link")
 
 ## Connect with me
 - [YouTube](https://www.youtube.com/HSBTechYt)
