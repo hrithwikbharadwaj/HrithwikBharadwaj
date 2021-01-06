@@ -1,5 +1,5 @@
 
-[<img src="https://img.shields.io/badge/Hey-Hrithwik%20here-FFFFF" width="22" />](https://hrithwik.me)
+[<img src="https://img.shields.io/badge/Hey-Hrithwik%20here-FFFFF"  />](https://hrithwik.me)
 # Hey, I'm Hrithwik Bharadwaj👋🏾💻
 
 
@@ -38,6 +38,6 @@ Interested and pursuing skills related to
 ## Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/HSBTechYt)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hrithwik-bharadwaj-a77810150/)
-[<img src = "https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-2-3.png" width="22">](https://www.YouTube.com/HSBTechYt)
+[<img src = "https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-2-3.png" width="40">](https://www.YouTube.com/HSBTechYt)
 
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://hrithwik.me/)
