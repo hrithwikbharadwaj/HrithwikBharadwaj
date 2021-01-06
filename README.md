@@ -6,8 +6,21 @@ I'm a Tech Enthusiast , with a Technology YouTube Channel of 8.5K subscribers an
 
 Interested and pursuing skills related to
   - 📲Progressive Web Apps
+  - 🧱Full Stack
   - 🤖Automation
   - ⚡UI/UX
+### Backend Stack
+
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+
+### Front-end Frameworks
+![Framework 7](https://v4.framework7.io/i/logo.svg)
+![Vue.js](https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Nuxt.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ## Projects
 - ### Yolo Food - Catering Web App ( [Demo](https://yolofood.herokuapp.com "Heading link"))
@@ -20,7 +33,8 @@ Interested and pursuing skills related to
 - ### [Why I love FireBase](https://blog.hrithwik.me/why-everyone-is-using-firebase-and-why-you-should-too "Heading link")
 
 ## Connect with me
-- [YouTube](https://www.youtube.com/HSBTechYt)
-- [Twitter](https://www.twitter.com/HSBTechYt)
-- [LinkedIn](https://www.linkedin.com/in/hrithwik-bharadwaj-a77810150/)
-- [Instagram](https://www.instagram.com/thiru.jpg)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/HSBTechYt)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hrithwik-bharadwaj-a77810150/)
+[<img src = "https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-2-3.png">](https://www.YouTube.com/HSBTechYt)
+
+[<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://hrithwik.me/)
