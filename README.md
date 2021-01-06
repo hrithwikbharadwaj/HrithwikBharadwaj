@@ -19,7 +19,7 @@ Interested and pursuing skills related to
 
 ### Front-end Frameworks
 
-[<img src="https://v4.framework7.io/i/logo.svg" width="22" />]Framework 7
+<img src="https://v4.framework7.io/i/logo.svg" width="22" />
 ![Vue.js](https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Nuxt.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -37,6 +37,6 @@ Interested and pursuing skills related to
 ## Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/HSBTechYt)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hrithwik-bharadwaj-a77810150/)
-[<img src = "https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-2-3.png">](https://www.YouTube.com/HSBTechYt)
+[<img src = "https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-2-3.png" width="22">](https://www.YouTube.com/HSBTechYt)
 
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://hrithwik.me/)
