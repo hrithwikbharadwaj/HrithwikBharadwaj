@@ -26,7 +26,7 @@ Interested and pursuing skills related to
 
 ## Projects
 - ### Yolo Food - Catering Web App ( [Demo](https://yolofood.herokuapp.com "Heading link"))
-- ### Rich URL - Send Visitors Directly to any App ( [Demo](https://richurl.tech "Heading link"))
+- ### Rich URL - Send Visitors Directly to any App ( [Demo](https://richurl.tech "Heading link"))( [Repository](https://github.com/hrithwikbharadwaj/deeply-backend "Heading link"))
 - ### Reddit2Instagram - Python Meme Bot( [Repository](https://github.com/hrithwikbharadwaj/redditToInstaBot "Heading link"))
 - ### GoCoronaGo - LIVE COVID-19 Tracking India( [Repository](https://github.com/hrithwikbharadwaj/goCoronaGo "Heading link"))
 - ### House Price Prediction in Bangalore( [Repository](https://github.com/hrithwikbharadwaj/DAHousePrediction "Heading link"))
