@@ -12,16 +12,20 @@ Interested and pursuing skills related to
   - ⚡UI/UX
 ### Backend Stack
 
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+
 
 ### Front-end Frameworks
 
 [<img src="https://v4.framework7.io/i/logo.svg" width="22" />](https://v4.framework7.io)
 ![Vue.js](https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Nuxt.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ## Projects
